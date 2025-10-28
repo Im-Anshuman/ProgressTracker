@@ -7,7 +7,7 @@ st.set_page_config(
     layout="wide"
 )
 
-def load_roadmap_data(file_path="attached_assets/Untitled_1761631078778.json"):
+def load_roadmap_data(file_path="Untitled_1761631078778.json"):
     """
     Load career roadmap data from JSON file.
     
