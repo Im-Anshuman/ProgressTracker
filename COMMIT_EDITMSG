@@ -1,0 +1,8 @@
+Separate learning progress tracker from roadmap page
+
+Update documentation to reflect that the tracker is now independent and can be integrated via a public API (`set_tracker_data`), separating its functionality from the roadmap generation page.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 45079ae8-818c-4211-b774-f9eecbdae6d2
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/c9242041-3880-4b9a-b2ed-f49cfd3a8ffb/45079ae8-818c-4211-b774-f9eecbdae6d2/VidK8Mq
